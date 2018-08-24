@@ -1,0 +1,23 @@
+{
+  "name": "header_parser",
+  "version": "1.0.0",
+  "description": "Apis and Microservices Projects  for FCC",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ineczka/Request-Header-Parser-Microservice.git"
+  },
+  "author": "Iwona B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ineczka/Request-Header-Parser-Microservice/issues"
+  },
+  "homepage": "https://github.com/ineczka/Request-Header-Parser-Microservice#readme"
+}
